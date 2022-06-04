@@ -1,0 +1,28 @@
+.banner {
+  background-image: url("https://r4.wallpaperflare.com/wallpaper/577/179/802/the-legend-of-zelda-video-games-the-legend-of-zelda-breath-of-the-wild-link-wallpaper-793088ed411a2d1b7657b84f103186ad.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner .container {
+  width: 900px;
+  margin: auto;
+}
+
+.banner h1 {
+  color: white;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+.banner p {
+  color: white;
+  font-size: 20px;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 1.0);
+}
+.btn-apply {
+  display: inline-block;
+  background-color: #55b9fc;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
